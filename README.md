@@ -31,7 +31,7 @@ Welcome to my respository, which I created due to practice of learning flutter. 
 
 A few of the things you can do with Notio:
 
-* [Firebase Authentication](https://firebase.google.com)
+* [Firebase Authentication](https://firebase.google.com) (https://www.gstatic.com/devrel-devsite/prod/vfe8699a5d354c41f3f953a7a9794768d4d2f39d37577d5708b5539be069912e1/firebase/images/lockup.svg)
 * [Firestore DataBase](https://firebase.google.com)
 * [Local Storage SQflite](https://pub.dev/packages/sqflite)
 * [State-management MobX with Provider](https://mobx.netlify.app)
