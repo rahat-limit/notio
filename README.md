@@ -29,7 +29,7 @@ Welcome to my respository, which I created due to practice of learning flutter. 
 
 ## App Pages
 <p align='center'>
-    <image src='https://github.com/rahat-limit/notio/blob/master/git-repo-assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-18%20at%2016.58.31.png'/>
+    <image src='https://github.com/rahat-limit/notio/blob/master/git-repo-assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-18%20at%2016.58.31.png' width='150'/>
 </p>
 
 ## Features
