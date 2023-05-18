@@ -32,16 +32,16 @@ Welcome to my respository, which I created due to practice of learning flutter. 
 A few of the things you can do with Notio:
 
 * [Firebase Authentication](https://firebase.google.com) 
-* <img src="https://www.gstatic.com/devrel-devsite/prod/vfe8699a5d354c41f3f953a7a9794768d4d2f39d37577d5708b5539be069912e1/firebase/images/lockup.svg" width=200>
 * [Firestore DataBase](https://firebase.google.com)
-<img src="https://www.gstatic.com/devrel-devsite/prod/vfe8699a5d354c41f3f953a7a9794768d4d2f39d37577d5708b5539be069912e1/firebase/images/lockup.svg" width=200>
 * [Local Storage SQflite](https://pub.dev/packages/sqflite)
-<img src="https://www.mysql.com/" width=200>
 * [State-management MobX with Provider](https://mobx.netlify.app)
-<img src="https://www.gstatic.com/devrel-devsite/prod/vfe8699a5d354c41f3f953a7a9794768d4d2f39d37577d5708b5539be069912e1/firebase/images/lockup.svg" width=200>
 * [Create, Remove, Update text with TextEditor Quil Html Editor](https://pub.dev/packages/quill_html_editor)
-<img src="https://www.gstatic.com/devrel-devsite/prod/vfe8699a5d354c41f3f953a7a9794768d4d2f39d37577d5708b5539be069912e1/firebase/images/lockup.svg" width=200>
 
+<p align="center">
+    <img src="https://www.gstatic.com/devrel-devsite/prod/vfe8699a5d354c41f3f953a7a9794768d4d2f39d37577d5708b5539be069912e1/firebase/images/lockup.svg" width=200>
+    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width=200>
+    <img src="https://mobx.netlify.app/mobx.svg" width=200>
+</p>
 
 <p align="center">
   <img src = "https://www.gstatic.com/devrel-devsite/prod/vfe8699a5d354c41f3f953a7a9794768d4d2f39d37577d5708b5539be069912e1/firebase/images/lockup.svg" width=100>
