@@ -24,7 +24,7 @@ Welcome to my respository, which I created due to practice of learning flutter. 
 **Available for iOS.**
 
 <p align="center">
-  <img src = "https://github.com/rahat-limit/notio/blob/master/git-repo-assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-18%20at%2016.56.19.png" width=300>
+  <img src = "[https://github.com/rahat-limit/notio/blob/master/git-repo-assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-18%20at%2016.56.19.png](https://github.com/rahat-limit/notio/blob/master/git-repo-assets/1024_500_description.png)" width=600>
 </p>
 
 ## ✖️ Authentication
