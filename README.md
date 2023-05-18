@@ -31,11 +31,11 @@ Welcome to my respository, which I created due to practice of learning flutter. 
 
 A few of the things you can do with Notio:
 
-* Firebase Authentication
-* Firestore DataBase
-* Local Storage ( <a href='https://pub.dev/packages/sqflite'><h3>SQflite</h3></a> )
-* State-management <a href='https://mobx.netlify.app'><h3>MobX</h3></a> with Provider 
-* Create, Remove, Update text with TextEditor (<a href='https://pub.dev/packages/quill_html_editor'><h3>Quil Html Editor</h3></a>)
+* [Firebase Authentication](https://firebase.google.com)
+* [Firestore DataBase](https://firebase.google.com)
+* [Local Storage SQflite](https://pub.dev/packages/sqflite)
+* [State-management MobX with Provider](https://mobx.netlify.app)
+* [Create, Remove, Update text with TextEditor Quil Html Editor](https://pub.dev/packages/quill_html_editor)
 
 
 <p align="center">
