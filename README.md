@@ -47,8 +47,6 @@ Future signInWithGoogle(BuildContext context) async {
 ```
 <p align='center'>
     <image src='https://github.com/rahat-limit/notio/blob/master/git-repo-assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-18%20at%2016.56.51.png' width='200'/>
-    <div style='width:200px;'></div>
-    <image src='https://github.com/rahat-limit/notio/blob/master/git-repo-assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-18%20at%2016.57.03.png' width='200'/>
 </p>
 
 ## Pages
@@ -68,6 +66,7 @@ A few of the things you can do with Notio:
 * [Local Storage SQflite](https://pub.dev/packages/sqflite)
 * [State-management MobX with Provider](https://mobx.netlify.app)
 * [Create, Remove, Update text with TextEditor Quil Html Editor](https://pub.dev/packages/quill_html_editor)
+* [AdMob](https://logowik.com/content/uploads/images/google-admob6870.jpg)
 
 <p align="center">
     <img src="https://www.gstatic.com/devrel-devsite/prod/vfe8699a5d354c41f3f953a7a9794768d4d2f39d37577d5708b5539be069912e1/firebase/images/lockup.svg" width=200>
