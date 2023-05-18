@@ -40,11 +40,8 @@ A few of the things you can do with Notio:
 <p align="center">
     <img src="https://www.gstatic.com/devrel-devsite/prod/vfe8699a5d354c41f3f953a7a9794768d4d2f39d37577d5708b5539be069912e1/firebase/images/lockup.svg" width=200>
     <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width=200>
+    <div style="width: 50px;"></div>
     <img src="https://mobx.netlify.app/mobx.svg" width=200>
-</p>
-
-<p align="center">
-  <img src = "https://www.gstatic.com/devrel-devsite/prod/vfe8699a5d354c41f3f953a7a9794768d4d2f39d37577d5708b5539be069912e1/firebase/images/lockup.svg" width=100>
 </p>
 
 <p align="center">
