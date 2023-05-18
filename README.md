@@ -47,7 +47,7 @@ Future signInWithGoogle(BuildContext context) async {
 ```
 <p align='center'>
     <image src='https://github.com/rahat-limit/notio/blob/master/git-repo-assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-18%20at%2016.56.51.png' width='200'/>
-    <div width='200px'></div>
+    <div style='width:200px;'></div>
     <image src='https://github.com/rahat-limit/notio/blob/master/git-repo-assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-18%20at%2016.57.03.png' width='200'/>
 </p>
 
