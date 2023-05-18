@@ -1,39 +1,22 @@
-<h1 align="center"> GitPoint </h1> <br>
+<h1 align="center"> Notio </h1> <br>
 <p align="center">
-  <a href="https://gitpoint.co/">
     <img alt="GitPoint" title="GitPoint" src="https://github.com/rahat-limit/notio/blob/master/git-repo-assets/512x512logo.png" width="450">
-  </a>
 </p>
 
 <p align="center">
-  GitHub in your pocket. Built with React Native.
+  Simple and Useful Text Editor in your pocket. Built with Flutter.
 </p>
 
 <p align="center">
-  <a href="https://itunes.apple.com/us/app/gitpoint/id1251245162?mt=8">
+<!--  Link to AppStore  -->
+  <a href="/">
     <img alt="Download on the App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">
   </a>
 
-  <a href="https://play.google.com/store/apps/details?id=com.gitpoint">
+<!--   <a href="/"> <---- link to play market
     <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
-  </a>
+  </a> -->
 </p>
-
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Feedback](#feedback)
-- [Contributors](#contributors)
-- [Build Process](#build-process)
-- [Backers](#backers-)
-- [Sponsors](#sponsors-)
-- [Acknowledgments](#acknowledgments)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 ## Introduction
 
 [![Build Status](https://img.shields.io/travis/gitpoint/git-point.svg?style=flat-square)](https://travis-ci.org/gitpoint/git-point)
@@ -48,7 +31,7 @@ View repository and user information, control your notifications and even manage
 **Available for both iOS and Android.**
 
 <p align="center">
-  <img src = "http://i.imgur.com/HowF6aM.png" width=350>
+  <img src = "https://github.com/rahat-limit/notio/blob/master/git-repo-assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-18%20at%2016.56.19.png" width=350>
 </p>
 
 ## Features
