@@ -113,5 +113,5 @@ Decided to add banner ad by MobAds. Which I find the simplest way of integration
 <p align="center">
   <img src = "https://github.com/rahat-limit/notio/blob/master/git-repo-assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-18%20at%2017.02.26.png" width=200>
 </p>
-### Thank you to all! Please hire me... 🙏
+## Thank you to all! Please hire me... 🙏
 
