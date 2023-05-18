@@ -34,9 +34,13 @@ A few of the things you can do with Notio:
 * [Firebase Authentication](https://firebase.google.com) 
 <img src="https://www.gstatic.com/devrel-devsite/prod/vfe8699a5d354c41f3f953a7a9794768d4d2f39d37577d5708b5539be069912e1/firebase/images/lockup.svg" width=200>
 * [Firestore DataBase](https://firebase.google.com)
+<img src="https://www.gstatic.com/devrel-devsite/prod/vfe8699a5d354c41f3f953a7a9794768d4d2f39d37577d5708b5539be069912e1/firebase/images/lockup.svg" width=200>
 * [Local Storage SQflite](https://pub.dev/packages/sqflite)
+<img src="https://www.flaticon.com/ru/free-icon/sql-server_5815478?term=sql&page=1&position=2&origin=tag&related_id=5815478" width=200>
 * [State-management MobX with Provider](https://mobx.netlify.app)
+<img src="https://www.gstatic.com/devrel-devsite/prod/vfe8699a5d354c41f3f953a7a9794768d4d2f39d37577d5708b5539be069912e1/firebase/images/lockup.svg" width=200>
 * [Create, Remove, Update text with TextEditor Quil Html Editor](https://pub.dev/packages/quill_html_editor)
+<img src="https://www.gstatic.com/devrel-devsite/prod/vfe8699a5d354c41f3f953a7a9794768d4d2f39d37577d5708b5539be069912e1/firebase/images/lockup.svg" width=200>
 
 
 <p align="center">
