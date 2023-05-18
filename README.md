@@ -19,13 +19,9 @@
 </p>
 
 ## Introduction
+Welcome to my respository, which I created due to practice of learning flutter. Here you can easily take a look at some images of app itself and read more info about it. Hope you like it🤙
 
-[![Commitizen friendly](https://img.shields.io/cocoapods/p/ios)](https://flutter.dev)
-[![Full Dart&Flutter Made](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://flutter.dev)
-
-View repository and user information, control your notifications and even manage your issues and pull requests. Built with React Native, GitPoint is one of the most feature-rich unofficial GitHub clients that is 100% free.
-
-**Available for both iOS and Android.**
+**Available for iOS.**
 
 <p align="center">
   <img src = "https://github.com/rahat-limit/notio/blob/master/git-repo-assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-18%20at%2016.56.19.png" width=350>
@@ -33,17 +29,14 @@ View repository and user information, control your notifications and even manage
 
 ## Features
 
-A few of the things you can do with GitPoint:
+A few of the things you can do with Notio:
 
-* View user activity feed
-* Communicate on your issue and pull request conversations
-* Close or lock issues
-* Apply labels and assignees
-* Review and merge pull requests
-* Create new issues
-* Star, watch and fork repositories
-* Control your unread and participating notifications
-* Easily search for any user or repository
+* Firebase Authentication
+* Firestore DataBase
+* Local Storage ( <a href='https://pub.dev/packages/sqflite'><h3>SQflite</h3></a> )
+* State-management <a href='https://mobx.netlify.app'><h3>MobX</h3></a> with Provider 
+* Create, Remove, Update text with TextEditor (<a href='https://pub.dev/packages/quill_html_editor'><h3>Quil Html Editor</h3></a>)
+
 
 <p align="center">
   <img src = "http://i.imgur.com/IkSnFRL.png" width=700>
