@@ -27,7 +27,24 @@ Welcome to my respository, which I created due to practice of learning flutter. 
   <img src = "https://github.com/rahat-limit/notio/blob/master/git-repo-assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-18%20at%2016.56.19.png" width=300>
 </p>
 
-## Authentication
+## ✖️ Authentication
+Base authentication using providers as email/password and google.
+```dart
+Future signInWithGoogle(BuildContext context) async {
+    try {
+      final GoogleSignInAccount? gUser = await GoogleSignIn(
+        scopes: ['email'],
+        clientId: "",
+      ).signIn();
+      final GoogleSignInAuthentication gAuth = await gUser!.authentication;
+      final credential = GoogleAuthProvider.credential(
+          accessToken: gAuth.accessToken, idToken: gAuth.idToken);
+      await FirebaseAuth.instance.signInWithCredential(credential);
+    } catch (e) {
+      rethrow;
+    }
+  }
+```
 <p align='center'>
     <image src='https://github.com/rahat-limit/notio/blob/master/git-repo-assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-18%20at%2016.56.51.png' width='200'/>
     <image src='https://github.com/rahat-limit/notio/blob/master/git-repo-assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-18%20at%2016.57.03.png' width='200'/>
@@ -46,6 +63,7 @@ A few of the things you can do with Notio:
 
 * [Firebase Authentication](https://firebase.google.com) 
 * [Firestore DataBase](https://firebase.google.com)
+* Additional Functions as Verify, Reset, Delete.
 * [Local Storage SQflite](https://pub.dev/packages/sqflite)
 * [State-management MobX with Provider](https://mobx.netlify.app)
 * [Create, Remove, Update text with TextEditor Quil Html Editor](https://pub.dev/packages/quill_html_editor)
