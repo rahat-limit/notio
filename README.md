@@ -27,6 +27,13 @@ Welcome to my respository, which I created due to practice of learning flutter. 
   <img src = "https://github.com/rahat-limit/notio/blob/master/git-repo-assets/1024_500_description.png" width=600>
 </p>
 
+
+## ✖️ Splash Screen and Home Page
+<p align='center'>
+    <image src='https://github.com/rahat-limit/notio/blob/master/git-repo-assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-18%20at%2016.56.19.png' width='200'/>
+    <image src='https://github.com/rahat-limit/notio/blob/master/git-repo-assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-18%20at%2016.58.31.png' width='200'/>
+</p>
+
 ## ✖️ Authentication
 Base authentication using providers as email/password and google.
 ```dart
@@ -50,11 +57,6 @@ Future signInWithGoogle(BuildContext context) async {
     <image src='https://github.com/rahat-limit/notio/blob/master/git-repo-assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-18%20at%2017.00.24.png' width='200'/>
 </p>
 
-<!-- ## Pages
-<p align='center'>
-    <image src='https://github.com/rahat-limit/notio/blob/master/git-repo-assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-18%20at%2016.58.31.png' width='200'/>
-    
-</p> -->
 
 
 ## Features
