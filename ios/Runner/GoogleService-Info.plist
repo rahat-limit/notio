@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>751140972272-0bla1gs01vfj6o0ccof1fr7l4vcl4o3n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.751140972272-0bla1gs01vfj6o0ccof1fr7l4vcl4o3n</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCuKq9BAlNFPieJtO5Nulq391P46pDD3E4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>751140972272</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.notio.new.app</string>
+	<key>PROJECT_ID</key>
+	<string>notio-app-7aa0f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>notio-app-7aa0f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:751140972272:ios:d848703354f41bf10a8435</string>
+</dict>
+</plist>

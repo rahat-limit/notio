@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "751140972272",
+    "project_id": "notio-app-7aa0f",
+    "storage_bucket": "notio-app-7aa0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751140972272:android:08ed7d8fb1859d4e0a8435",
+        "android_client_info": {
+          "package_name": "com.notio.new.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751140972272-fsbd57rufeq8ripda0d7m46o34cvsf6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGzjl9FMkI7Wz4008NVYFHp4VjUR2byBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751140972272-fsbd57rufeq8ripda0d7m46o34cvsf6q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "751140972272-0bla1gs01vfj6o0ccof1fr7l4vcl4o3n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.notio.new.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
