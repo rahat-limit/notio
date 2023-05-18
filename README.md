@@ -27,13 +27,18 @@ Welcome to my respository, which I created due to practice of learning flutter. 
   <img src = "https://github.com/rahat-limit/notio/blob/master/git-repo-assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-18%20at%2016.56.19.png" width=300>
 </p>
 
-## App Pages
+## Authentication
 <p align='center'>
     <image src='https://github.com/rahat-limit/notio/blob/master/git-repo-assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-18%20at%2016.56.51.png' width='200'/>
     <image src='https://github.com/rahat-limit/notio/blob/master/git-repo-assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-18%20at%2016.57.03.png' width='200'/>
-    <image src='https://github.com/rahat-limit/notio/blob/master/git-repo-assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-18%20at%2016.58.31.png' width='200'/>
-    <image src='https://github.com/rahat-limit/notio/blob/master/git-repo-assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-18%20at%2016.58.31.png' width='200'/>
 </p>
+
+## Pages
+<p align='space-between'>
+    <image src='https://github.com/rahat-limit/notio/blob/master/git-repo-assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-18%20at%2016.58.31.png' width='200'/>
+    <image src='https://github.com/rahat-limit/notio/blob/master/git-repo-assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-18%20at%2017.00.24.png' width='200'/>
+</p>
+
 
 ## Features
 
