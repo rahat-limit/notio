@@ -1,7 +1,7 @@
 <h1 align="center"> GitPoint </h1> <br>
 <p align="center">
   <a href="https://gitpoint.co/">
-    <img alt="GitPoint" title="GitPoint" src="![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/rahat-limit/notio/git-repo-assets/512x512logo.png)?raw=true)" width="450">
+    <img alt="GitPoint" title="GitPoint" src="![alt text](https://github.com/rahat-limit/notio/git-repo-assets/512x512logo.png)?raw=true)" width="450">
   </a>
 </p>
 
