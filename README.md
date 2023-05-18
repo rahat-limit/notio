@@ -76,8 +76,37 @@ A few of the things you can do with Notio:
     <img src="https://logowik.com/content/uploads/images/google-admob6870.jpg" width=200>
 </p>
 
+## Text Editor
+For this task, I chose plugin QuilHtmlEditor due to simple and useful html concept of working with text edit.
+
+```dart
+  Expanded(
+    child: QuillHtmlEditor(
+      textStyle: const TextStyle(
+          fontSize: 24,
+          color: Color(0xff817F7F),
+          fontWeight: FontWeight.w500,
+          fontFamily: 'MontserratMedium'),
+      onEditorCreated: () async {
+        if (!widget.isNewNote) {
+          await _controller!.setText(widget.note.text);
+        }
+      },
+      hintText: 'Unititled',
+      padding: const EdgeInsets.symmetric(horizontal: 10),
+      hintTextPadding: const EdgeInsets.only(left: 10),
+      hintTextStyle: const TextStyle(
+          fontSize: 36,
+          fontWeight: FontWeight.bold,
+          color: Colors.grey),
+      controller: _controller!,
+      backgroundColor: secondaryColor,
+      minHeight: 500,
+    ),
+  )
+```
 <p align="center">
-  <img src = "http://i.imgur.com/0iorG20.png" width=700>
+  <img src = "https://github.com/rahat-limit/notio/blob/master/git-repo-assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-18%20at%2017.01.20.png" width=200>
 </p>
 <!-- 
 ## Feedback
