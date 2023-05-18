@@ -57,15 +57,13 @@ Future signInWithGoogle(BuildContext context) async {
     <image src='https://github.com/rahat-limit/notio/blob/master/git-repo-assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-18%20at%2017.00.24.png' width='200'/>
 </p>
 
-
-
 ## Features
 
 A few of the things you can do with Notio:
 
 * [Firebase Authentication](https://firebase.google.com) 
 * [Firestore DataBase](https://firebase.google.com)
-* Additional Functions as Verify, Reset, Delete.
+* [Additional Functions as Verify, Reset, Delete.](https://firebase.google.com)
 * [Local Storage SQflite](https://pub.dev/packages/sqflite)
 * [State-management MobX with Provider](https://mobx.netlify.app)
 * [Create, Remove, Update text with TextEditor Quil Html Editor](https://pub.dev/packages/quill_html_editor)
@@ -75,6 +73,7 @@ A few of the things you can do with Notio:
     <img src="https://www.gstatic.com/devrel-devsite/prod/vfe8699a5d354c41f3f953a7a9794768d4d2f39d37577d5708b5539be069912e1/firebase/images/lockup.svg" width=200>
     <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width=200>
     <img src="https://mobx.netlify.app/mobx.svg" width=200>
+    <img src="https://logowik.com/content/uploads/images/google-admob6870.jpg" width=200>
 </p>
 
 <p align="center">
