@@ -27,7 +27,7 @@ Welcome to my respository, which I created due to practice of learning flutter. 
   <img src = "https://github.com/rahat-limit/notio/blob/master/git-repo-assets/1024_500_description.png" width=600>
 </p>
 
-## Features
+## ✖️ Features
 
 A few of the things you can do with Notio:
 
@@ -75,7 +75,7 @@ Future signInWithGoogle(BuildContext context) async {
     <image src='https://github.com/rahat-limit/notio/blob/master/git-repo-assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-18%20at%2017.00.24.png' width='200'/>
 </p>
 
-## Text Editor
+## ✖️ Text Editor
 For this task, I chose plugin QuilHtmlEditor due to simple and useful html concept of working with text edit.
 
 ```dart
@@ -107,8 +107,13 @@ For this task, I chose plugin QuilHtmlEditor due to simple and useful html conce
 <p align="center">
   <img src = "https://github.com/rahat-limit/notio/blob/master/git-repo-assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-18%20at%2017.01.20.png" width=200>
 </p>
+
+## ✖️ Feedback
+Decided to add banner ad by MobAds. Which I find the simplest way of integration and most suitable for this kind of app.  
+<p align="center">
+  <img src = "https://github.com/rahat-limit/notio/blob/master/git-repo-assets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-18%20at%2017.02.26.png" width=200>
+</p>
 <!-- 
-## Feedback
 
 Feel free to send us feedback on [Twitter](https://twitter.com/gitpointapp) or [file an issue](https://github.com/gitpoint/git-point/issues/new). Feature requests are always welcome. If you wish to contribute, please take a quick look at the [guidelines](./CONTRIBUTING.md)!
 
