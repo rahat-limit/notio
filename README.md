@@ -9,9 +9,9 @@
 
 <p align="center">
 <!--  Link to AppStore  -->
-  <a href="/">
+<!--   <a href="/">
     <img alt="Download on the App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">
-  </a>
+  </a> -->
 
 <!--   <a href="/"> <---- link to play market
     <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
