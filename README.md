@@ -1,6 +1,6 @@
 <h1 align="center"> Notio </h1> <br>
 <p align="center">
-    <img alt="GitPoint" title="GitPoint" src="https://github.com/rahat-limit/notio/blob/master/git-repo-assets/512x512logo.png" width="450">
+    <img alt="GitPoint" src="https://github.com/rahat-limit/notio/blob/master/git-repo-assets/512x512logo.png" width="450">
 </p>
 
 <p align="center">
