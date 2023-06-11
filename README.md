@@ -21,7 +21,7 @@
 ## Introduction
 Welcome to my respository, which I created due to practice of learning flutter. Here you can easily take a look at some images of app itself and read more info about it. Hope you like it🤙
 
-**Available for iOS.**
+<!-- **Available for iOS.** -->
 
 <p align="center">
   <img src = "https://github.com/rahat-limit/notio/blob/master/git-repo-assets/1024_500_description.png" width=600>
